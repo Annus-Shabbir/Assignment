@@ -3,25 +3,30 @@ body{
     background-color: #88A096 ;
     border: 10px double white;
     padding: 30px;
-    font-size: 20px
+    font-size: 20px;
+    max-width: 1160px;
+    min-width:20px ;
 }
 
 h1{
-    width: ;
-    padding: 20px;
-    margin: 5px 300px;
-    text-decoration: underline;
-         
     
+    padding: 2px;
+    margin: 50px auto;
+    text-decoration: underline;
+    min-width: 45px : 
+    max-width: 150px;
+         
 }
 
 h1:hover{
-    text-transform:lowercase;
+    text-transform: capitalize;
+    color: white;
 
 }
 h2{
     text-decoration: underline;
         }
  h2:hover{
-     text-transform: uppercase;
+     text-transform: capitalize;
+     color: white;
  }       
