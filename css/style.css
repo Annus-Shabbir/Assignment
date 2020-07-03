@@ -1,7 +1,7 @@
 body{
     
-    background-color: #88A096 ;
-    border: 10px double white;
+    background-color: #ffb4a2 ;
+    border: 10px double #6d6875;
     padding: 30px;
     font-size: 20px;
     max-width: 1160px;
@@ -20,7 +20,7 @@ h1{
 
 h1:hover{
     text-transform: capitalize;
-    color: white;
+    color:#6d6875;
 
 }
 h2{
@@ -28,5 +28,5 @@ h2{
         }
  h2:hover{
      text-transform: capitalize;
-     color: white;
+     color:#6d6875;
  }       
